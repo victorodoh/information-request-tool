@@ -1,16 +1,18 @@
+# INFORMATION REQUEST TOOL
+
 An Information request tool built using Tkinter, Python; Pandas, Numpy, Matplotlib, Requests, datetime.
 
-#### Key functions: ####
+## Key functions:
 1. It analyses and visualises Covid-19 confirmed cases from a UK government-provided source file ( https://coronavirus.data.gov.uk/details/about-data#cases-by-age ).
 2. It analyses and visualises Stop and Search data retrieved from a publicly available API by the UK police which provides detailed crime data and information about individual police forces and neighbourhood teams. API documentation: https://data.police.uk/docs/
 3. Provides end user with a single starting point / GUI to separately run both Python modules itemised in 1 & 2 above.
 
 
-#### Launching the GUI application: ####
+## Launching the GUI application:
 Firstly, you need to install all required software tools, packages and their respective versions used for this project. This project supports **Python version 3 upwards**
 
 
-######  Installation GUIDE ######
+## Installation GUIDE
 
 1. ***Python*** :
     To install `python` visit https://www.python.org/downloads/ and download a python interpreter compatible with your device (**Python 3** `is advisable for all users`). For ***Mac*** the in built one is not recommended update to **Python 3**.
@@ -21,12 +23,12 @@ Firstly, you need to install all required software tools, packages and their res
 If successfully installed the next step will be to run the application
 
 
-###### Start the application ######
+## Start the application
 
 Open the project folder in **Command Prompt** and type or paste this command `python -m tk_app_index`. For **Mac Users** use `python3 -m tk_app_index`, this will start the GUI application ![GUI Interface](this should contain an image of the gui interface).
 
 
-###### Available Visualisations ######
+## Available Visualisations
 
 The GUI can be used to check the following visualisations
 
@@ -44,7 +46,7 @@ The GUI can be used to check the following visualisations
 3. Stop and search result by legislation
 4. Type of stop and search conducted
 
-###### How to run test (Unit and Functional) ######
+## How to run test (Unit and Functional)
 
 The `TDD (Testing Driven Development)` paradigm was applied in this project. The unit and functional tests are contained in the **test_tk_app_index.py** file. 
 *** Before attempting to run tests for the application, all the packages mentioned above must be installed ***
