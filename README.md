@@ -1,6 +1,6 @@
 # INFORMATION REQUEST TOOL
 
-An Information request tool built using ``Tkinter``, `Python`; ``Pandas, `Numpy`, `Matplotlib`, `Requests`, `datetime`
+An Information request tool built using `Tkinter`, `Python`; `Pandas`, `Numpy`, `Matplotlib`, `Requests`, `datetime`
 
 ## Key functions:
 1. It analyses and visualises Covid-19 confirmed cases from a UK government-provided source file ( https://coronavirus.data.gov.uk/details/about-data#cases-by-age ).
