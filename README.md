@@ -25,7 +25,7 @@ If successfully installed the next step will be to run the application
 
 ## Start the application
 
-Open the project folder in **Command Prompt** and type or paste this command `python -m tk_app_index`. For **Mac Users** use `python3 -m tk_app_index`, this will start the GUI application ![GUI Interface](this should contain an image of the gui interface).
+Open the project folder in **Command Prompt** and type or paste this command `python -m tk_app_index`. For **Mac Users** use `python3 -m tk_app_index`, this will start the GUI application.
 
 
 ## Available Visualisations
