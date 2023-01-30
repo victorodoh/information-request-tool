@@ -15,7 +15,7 @@ Firstly, you need to install all required software tools, packages and their res
 ## Installation GUIDE
 
 1. ***Python*** :
-    To install `python` visit https://www.python.org/downloads/ and download a python interpreter compatible with your device (**Python 3** `is advisable for all users`). For ***Mac*** the in built one is not recommended update to **Python 3**.
+    To install `python` [download a python interpreter](https://www.python.org/downloads/) compatible with your device (**Python 3** `is advisable for all users`). For ***Mac*** the in built one is not recommended update to **Python 3**.
 
 2. ***Packages used*** :
     To install the packages used and their respective version which is located in the requirements.txt file. Open the project folder in **Command Prompt** and paste or type the following command `python -m pip install -r requirements.txt`. For **Mac Users** use `python3 -m pip install -r requirements.txt`.
