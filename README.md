@@ -3,8 +3,8 @@
 An Information request tool built using `Tkinter`, `Python`; `Pandas`, `Numpy`, `Matplotlib`, `Requests`, `datetime`
 
 ## Key functions:
-1. It analyses and visualises Covid-19 confirmed cases from a UK government-provided source file ( https://coronavirus.data.gov.uk/details/about-data#cases-by-age ).
-2. It analyses and visualises Stop and Search data retrieved from a publicly available API by the UK police which provides detailed crime data and information about individual police forces and neighbourhood teams. API documentation: https://data.police.uk/docs/
+1. It analyses and visualises Covid-19 confirmed cases from a [UK government-provided source file](https://coronavirus.data.gov.uk/details/about-data#cases-by-age)
+2. It analyses and visualises Stop and Search data retrieved from a publicly available API by the UK police which provides detailed crime data and information about individual police forces and neighbourhood teams. [API documentation](https://data.police.uk/docs/)
 3. Provides end user with a single starting point / GUI to separately run both Python modules itemised in 1 & 2 above.
 
 
